@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="SKY | 101 ADN40 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ADN-40.jpg" group-title="SKY",SKY | 101 ADN40 HD
+http://aleiptv.mine.nu:8000/ghia/1234/1146
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="SKY | 102 Las Estrellas México (Mexico City)" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRELLA.jpg" group-title="SKY",SKY | 102 Las Estrellas México (Mexico City)
+http://aleiptv.mine.nu:8000/ghia/1234/1182
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 103 Imagen TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/IMAG.jpg" group-title="SKY",SKY | 103 Imagen TV
+http://aleiptv.mine.nu:8000/ghia/1234/1059
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="SKY | 105 Canal 5" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Donde-Ver-Canal-5-Televisa-EN-VIVO-y-en-directo-Online-Gratis.png" group-title="SKY",SKY | 105 Canal 5
+http://aleiptv.mine.nu:8000/ghia/1234/1141
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="SKY | 105 Cinco Mexico." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Donde-Ver-Canal-5-Televisa-EN-VIVO-y-en-directo-Online-Gratis.png" group-title="SKY",SKY | 105 Cinco Mexico.
+http://aleiptv.mine.nu:8000/ghia/1234/6621
+#EXTINF:-1 tvg-id="AztecaNoticias.mx" tvg-name="SKY | 107 Azteca 7 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SIETE.jpg" group-title="SKY",SKY | 107 Azteca 7 HD
+http://aleiptv.mine.nu:8000/ghia/1234/1185
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="SKY | 111 Canal Once" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Logo_CanalOnce.png" group-title="SKY",SKY | 111 Canal Once
+http://aleiptv.mine.nu:8000/ghia/1234/2359
+#EXTINF:-1 tvg-id="Teveunam.mx" tvg-name="SKY | 120 TV UNAM" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UNAM.png" group-title="SKY",SKY | 120 TV UNAM
+http://aleiptv.mine.nu:8000/ghia/1234/1083
+#EXTINF:-1 tvg-id="FoxLifeLatinAmerica.pa" tvg-name="SKY | 1211 FOX HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(21).jpg" group-title="SKY",SKY | 1211 FOX HD
+http://aleiptv.mine.nu:8000/ghia/1234/5131
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SKY  | 1223 SONY HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(35).jpg" group-title="SKY",SKY  | 1223 SONY HD
+http://aleiptv.mine.nu:8000/ghia/1234/5136
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="SKY | 1240 AXN FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(17).jpg" group-title="SKY",SKY | 1240 AXN FHD
+http://aleiptv.mine.nu:8000/ghia/1234/5135
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="SKY | 1263 History Channel HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(20).jpg" group-title="SKY",SKY | 1263 History Channel HD
+http://aleiptv.mine.nu:8000/ghia/1234/5132
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 1410 De Pelicula HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image.png" group-title="SKY",SKY | 1410 De Pelicula HD
+http://aleiptv.mine.nu:8000/ghia/1234/5698
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SKY | 1429 SPACE HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(18).jpg" group-title="SKY",SKY | 1429 SPACE HD
+http://aleiptv.mine.nu:8000/ghia/1234/5134
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="SKY | 1470 HBO 2 Latinoamérica" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(32).jpg" group-title="SKY",SKY | 1470 HBO 2 Latinoamérica
+http://aleiptv.mine.nu:8000/ghia/1234/5695
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="SKY | 1471 HBO Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(33).jpg" group-title="SKY",SKY | 1471 HBO Latino
+http://aleiptv.mine.nu:8000/ghia/1234/5694
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="SKY | 1475 HBO Signature HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(31).jpg" group-title="SKY",SKY | 1475 HBO Signature HD.
+http://aleiptv.mine.nu:8000/ghia/1234/5696
+#EXTINF:-1 tvg-id="BET.us" tvg-name="SKY | 149 Foro TV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Foro_TV_2016_NewLogo.jpg" group-title="SKY",SKY | 149 Foro TV HD
+http://aleiptv.mine.nu:8000/ghia/1234/1190
+#EXTINF:-1 tvg-id="Canal Gala TV" tvg-name="SKY | 150 Galavision HD" tvg-logo="[" group-title="SKY",SKY | 150 Galavision HD
+http://aleiptv.mine.nu:8000/ghia/1234/6860
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="SKY | 154 TV Mexiquense" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MEXIQ.jpg" group-title="SKY",SKY | 154 TV Mexiquense
+http://aleiptv.mine.nu:8000/ghia/1234/2340
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="SKY | 1558 FOX Sport 3" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(28).jpg" group-title="SKY",SKY | 1558 FOX Sport 3
+http://aleiptv.mine.nu:8000/ghia/1234/5699
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="SKY | 156 Milenio TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Milenio_Television.png" group-title="SKY",SKY | 156 Milenio TV
+http://aleiptv.mine.nu:8000/ghia/1234/2358
+#EXTINF:-1 tvg-id="AztecaNoticias.mx" tvg-name="SKY | 158 Azteca Uno" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/1200px-Logo_a+_(canal).svg.png" group-title="SKY",SKY | 158 Azteca Uno
+http://aleiptv.mine.nu:8000/ghia/1234/1187
+#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="SKY | 161 ADN40" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ADN-40.jpg" group-title="SKY",SKY | 161 ADN40
+http://aleiptv.mine.nu:8000/ghia/1234/1188
+#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="SKY  | 201 CANAL FOX" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX%20HD.png" group-title="SKY",SKY  | 201 CANAL FOX
+http://aleiptv.mine.nu:8000/ghia/1234/1046
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SKY  | 202 Sony" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SONY.jpg" group-title="SKY",SKY  | 202 Sony
+http://aleiptv.mine.nu:8000/ghia/1234/236
+#EXTINF:-1 tvg-id="632ec636cecd4f5bcdfb8311f6c78401" tvg-name="SKY | 205 Warner Channel México" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/WARNER.png" group-title="SKY",SKY | 205 Warner Channel México
+http://aleiptv.mine.nu:8000/ghia/1234/225
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="SKY | 206 E!" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/E.png" group-title="SKY",SKY | 206 E!
+http://aleiptv.mine.nu:8000/ghia/1234/268
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="SKY | 207 FX" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Fxhd.png" group-title="SKY",SKY | 207 FX
+http://aleiptv.mine.nu:8000/ghia/1234/253
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="SKY | 208 Universal" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UNIVERSAL.png" group-title="SKY",SKY | 208 Universal
+http://aleiptv.mine.nu:8000/ghia/1234/226
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SKY  | 209 SySy" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Syfy_Universal_HD.png" group-title="SKY",SKY  | 209 SySy
+http://aleiptv.mine.nu:8000/ghia/1234/233
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="SKY | 210 ID" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Investigation_Discovery_HD.png" group-title="SKY",SKY | 210 ID
+http://aleiptv.mine.nu:8000/ghia/1234/245
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="SKY | 211 TLC México" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/The_Learning_Channel_HD.png" group-title="SKY",SKY | 211 TLC México
+http://aleiptv.mine.nu:8000/ghia/1234/229
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="SKY  | 212 A&E Latinoamérica HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AE.png" group-title="SKY",SKY  | 212 A&E Latinoamérica HD
+http://aleiptv.mine.nu:8000/ghia/1234/287
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="SKY | 213 AXN" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AXN_HD.png" group-title="SKY",SKY | 213 AXN
+http://aleiptv.mine.nu:8000/ghia/1234/283
+#EXTINF:-1 tvg-id="e4d69a95152461a59e5ae8dca52ee5cd" tvg-name="SKY | 214 Telemundo Internacional" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="SKY",SKY | 214 Telemundo Internacional
+http://aleiptv.mine.nu:8000/ghia/1234/231
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="SKY | 216 Las Estrellas Latinoamérica HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRELLAS%20LAT.png" group-title="SKY",SKY | 216 Las Estrellas Latinoamérica HD
+http://aleiptv.mine.nu:8000/ghia/1234/1161
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 218 Discovery Home & Health HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Home_&_Health_HD.png" group-title="SKY",SKY | 218 Discovery Home & Health HD
+http://aleiptv.mine.nu:8000/ghia/1234/274
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 219 Hola! TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HOLATV_II.png" group-title="SKY",SKY | 219 Hola! TV
+http://aleiptv.mine.nu:8000/ghia/1234/1058
+#EXTINF:-1 tvg-id="e87ae88c0b25ba729fd882edea85a49e" tvg-name="SKY | 221 TNT Series México HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/2000px-TNT_Serie_HD.svg.png" group-title="SKY",SKY | 221 TNT Series México HD
+http://aleiptv.mine.nu:8000/ghia/1234/227
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="SKY | 222 H2" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/History_2.png" group-title="SKY",SKY | 222 H2
+http://aleiptv.mine.nu:8000/ghia/1234/251
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 225 TBS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TBS_HD.png" group-title="SKY",SKY | 225 TBS HD
+http://aleiptv.mine.nu:8000/ghia/1234/232
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="SKY | 227 FOX Life HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/20120125104916FOX_life_HD_720x4601-500x319.png" group-title="SKY",SKY | 227 FOX Life HD
+http://aleiptv.mine.nu:8000/ghia/1234/259
+#EXTINF:-1 tvg-id="" tvg-name="SKY  | 228 Distrito Comedia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/928400815_DistritoComedia.png.e94692cebd4eb064dbaa7158e8ff45a4.png" group-title="SKY",SKY  | 228 Distrito Comedia
+http://aleiptv.mine.nu:8000/ghia/1234/321
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 234 EFEKTO TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/EFEL.jpg" group-title="SKY",SKY | 234 EFEKTO TV
+http://aleiptv.mine.nu:8000/ghia/1234/1191
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="SKY | 235 Passion HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PASION.png" group-title="SKY",SKY | 235 Passion HD
+http://aleiptv.mine.nu:8000/ghia/1234/1184
+#EXTINF:-1 tvg-id="" tvg-name="SKY | 251 Discovery Channel México HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Channel_HD_2007.png" group-title="SKY",SKY | 251 Discovery Channel México HD
+http://aleiptv.mine.nu:8000/ghia/1234/275
